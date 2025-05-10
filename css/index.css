@@ -1,0 +1,229 @@
+body{
+    margin: 0px;
+    padding: 30px;
+    padding-top: 60px;
+    background-color: #1f48ff;
+}
+.icon {
+    display: flex;
+}
+.UN {
+    height: 75px;
+    width: 75px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+.text {
+    color: #1f48ffb0;
+    margin-bottom: 20px;
+}
+.UE{
+    height: 60px;
+    width: 60px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+.U {
+    font-size: 150%;
+}
+.N {
+    font-size: 50%;
+}
+.nasa{
+    margin: 0px;
+    padding: 0px;
+    padding-top: 10px;
+    border-radius: 20px;
+    background-color: #ffffff;
+}
+h1 {
+    border-bottom:solid 5px #000
+}
+.asm{
+    margin-left: auto;
+    margin-right: 40px;
+    margin-top: 10px;
+}
+h2 {
+    position: relative;
+    text-align: right;
+    margin: 50px;
+    margin-bottom: 20px;
+    font-size: 300%;
+    border-right: solid 10px blue;
+    padding: 20px;
+    height: 40px;
+    font-style: italic;
+}
+.p{
+    background-color: rgb(255, 197, 5);
+    border-radius: 20px;
+    padding: 30px;
+    width: 300px;
+    text-align: center;
+    font-size: 150%;
+    margin-left: calc(50% - 180px);
+    margin-right: calc(50% - 180px);
+}
+.div{
+    margin-top: 50px;
+    padding: 35px;
+    text-align: right;
+    font-size: 150%;
+}
+.r{
+    font-size: 150%;
+    border-right: solid 3px blue;
+    height: 40px;
+    padding: 10px;
+}
+.tx{
+    padding: 20px;
+}
+.links{
+    background-color: rgb(255, 0, 0);
+    color: #eee;
+    font-size: 200%;
+    display: inline;
+    border-radius: 50px;
+    text-decoration: none;
+    text-align: center;
+    padding: 25px;
+    margin-left: calc(50% - 84px);
+}
+.zo{
+    padding: 0px;
+    margin: 0px;
+    margin-top: 50px;
+    border-bottom: solid 3px #00000086;
+}
+.add{
+    text-align: right;
+    font-size: 150%;
+}
+.oo{
+    margin: 20px;
+    padding: 20px;
+    background-color: rgba(107, 106, 106, 0.185);
+    border-radius: 20px;
+}
+.qq{
+    height: 50px;
+    width: 60%;
+    border-radius: 50px;
+    margin-left: 20%;
+}
+.ee{
+    background-color: rgba(22, 5, 255, 0.336);
+    font-size: 125%;
+    border-radius:20px;
+    text-align: center;
+    padding: 10px;
+    width: 90px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.in{
+    height: 60px;
+    width: 60px;
+    padding: 20px;
+    border-radius: 50px;
+}
+.cc{
+    background-color: rgba(107, 106, 106, 0.445);
+    font-size: 125%;
+    border-radius:20px;
+    border-top-left-radius: 0px;
+    text-align: center;
+    padding: 10px;
+    width: 50%;
+    position: absolute;
+    left: 150px;
+    margin-left: 30px;
+}
+.ww{
+    display: flex;
+    height: 100px;
+}
+.ww::before{
+    content: "";
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgba(107, 106, 106, 0.445) rgba(107, 106, 106, 0.445) transparent transparent;
+    position: absolute;
+    left: 130px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.k{
+    margin: 30px;
+    border-bottom: solid 2px #33333349;
+}
+footer{
+    display: flex;
+    background-color: #1f48ff;
+}
+.foo{
+    margin: 0px;
+    width: 33%;
+    text-align: center;
+    justify-content: space-between;
+}
+.foo:nth-child(2){
+    border-right: solid 3px #00000086;
+    border-left: solid 3px #00000086;
+}
+ul{
+    list-style-type: none;
+    font-size: 150%;
+    font-weight: bold;
+    padding: 0px;
+    color: #fff;
+}
+.mr{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.aw{
+    font-size: 150%;
+    margin: 20px;
+    padding: 5px;
+    background-color: #ffffff;
+}
+.uu{
+    font-size: 130%;
+    padding: 10px;
+    color: #fff;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    padding: 13px;
+    margin: 0px;
+    font-size: 110%;
+    color: #1100ff;
+}
+.pp{
+    padding: 0px;
+    margin-top: 20px;
+    border-bottom: solid 2px #0000003a;
+}
+.ddd{
+    padding: 0px;
+    margin: 0px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+    justify-content: center;
+}
+.ana{
+    display: flex;
+    text-align: left;
+}
+.zxxz{
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    background-color: #fff;
+}
